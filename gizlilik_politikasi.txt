@@ -1,0 +1,68 @@
+Gizlilik Politikası
+Son güncelleme: 2 Şubat 2025
+
+Bu Gizlilik Politikası, Hizmeti kullandığınızda bilgilerinizi nasıl topladığımız, kullandığımız ve ifşa ettiğimiz ile ilgili politikalarımızı ve prosedürlerimizi açıklar. Gizlilik haklarınız ve yasaların sizi nasıl koruduğu hakkında sizi bilgilendirir.
+
+Hizmeti sağlamak ve geliştirmek için kişisel verilerinizi kullanıyoruz. Hizmeti kullanarak, bu Gizlilik Politikası'na uygun olarak bilgilerin toplanmasını ve kullanılmasını kabul etmiş olursunuz.
+
+Yorumlama ve Tanımlar
+Yorumlama
+İlk harfi büyük olan kelimeler aşağıdaki tanımlara sahiptir. Aşağıdaki tanımlar tekil veya çoğul hallerinde kullanıldıklarında aynı anlama gelir.
+
+Tanımlar
+Hesap: Hizmete veya Hizmetin belirli bölümlerine erişmek için oluşturduğunuz benzersiz hesap anlamına gelir.
+Bağlı Kuruluş: Bir tarafın kontrol ettiği, kontrol edildiği veya ortak kontrol altında olduğu herhangi bir kuruluş anlamına gelir.
+Uygulama: Şirket tarafından sağlanan Numberloo yazılım programı anlamına gelir.
+Şirket: ("Şirket", "Biz", "Bize" veya "Bizim" olarak anılır) Numberloo anlamına gelir.
+Ülke: Türkiye
+Cihaz: Bilgisayar, cep telefonu veya dijital tablet gibi Hizmete erişebilen herhangi bir cihaz anlamına gelir.
+Kişisel Veri: Kimliği belirli veya belirlenebilir bir bireyle ilgili her türlü bilgi anlamına gelir.
+Hizmet: Uygulama anlamına gelir.
+Hizmet Sağlayıcı: Şirket adına verileri işleyen gerçek veya tüzel kişi anlamına gelir.
+Kullanım Verisi: Hizmeti kullanımınız sırasında otomatik olarak toplanan veriler anlamına gelir.
+Sen: Hizmete erişen veya Hizmeti kullanan birey veya tüzel kişi anlamına gelir.
+Kişisel Verilerinizin Toplanması ve Kullanımı
+Toplanan Veri Türleri
+Kişisel Veri
+Hizmetimizi kullanırken, sizi tanımlamak veya sizinle iletişim kurmak için kullanılabilecek bazı kişisel bilgileri sağlamanızı isteyebiliriz. Bunlar şunları içerebilir:
+
+E-posta adresi
+Ad ve soyad
+Kullanım Verisi
+Kullanım Verisi
+Hizmeti kullandığınızda otomatik olarak kullanım verileri toplanır. Bu veriler şunları içerebilir:
+
+Cihazınızın IP adresi
+Tarayıcı türü ve sürümü
+Ziyaret ettiğiniz sayfalar
+Ziyaret süresi ve tarihleri
+Diğer tanımlayıcılar
+Uygulamayı Kullanırken Toplanan Bilgiler
+Uygulamamızın belirli özelliklerini sağlamak için, sizin önceden izninizle aşağıdaki bilgileri toplayabiliriz:
+
+Cihazınızın kamera ve fotoğraf kitaplığından resimler
+Bu bilgiler Hizmetimizi sağlamak, geliştirmek ve kişiselleştirmek için kullanılır. Bu bilgiler cihazınızda saklanabilir veya Şirketin ya da bir Hizmet Sağlayıcının sunucularına yüklenebilir.
+
+Kişisel Verilerinizin Kullanımı
+Şirket, Kişisel Verilerinizi aşağıdaki amaçlarla kullanabilir:
+
+Hizmetimizi sağlamak ve sürdürmek
+Hesabınızı yönetmek
+Hizmetimizle ilgili sizinle iletişim kurmak
+Size özel teklifler ve haberler sunmak
+İsteklerinizi yönetmek
+İş transferleri için
+Yasal yükümlülükleri yerine getirmek
+Kişisel Verilerinizin Saklanması
+Şirket, kişisel verilerinizi yalnızca bu Gizlilik Politikasında belirtilen amaçlar için gerektiği süre boyunca saklayacaktır.
+
+Kişisel Verilerinize Erişim ve Silme
+Hesabınıza giriş yaparak veya bizimle iletişime geçerek kişisel verilerinize erişebilir, düzeltebilir veya silebilirsiniz.
+
+Gizlilik Politikası Güncellemeleri
+Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Güncellemeleri bu sayfada yayınlayacağız.
+
+Bize Ulaşın
+Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa, aşağıdaki e-posta adresi üzerinden bizimle iletişime geçebilirsiniz:
+
+E-posta: numberlooapp@gmail.com
