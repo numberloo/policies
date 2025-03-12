@@ -1,0 +1,20 @@
+1. Genel Amaç ve İlke
+Numberloo, çocukların çevrimiçi güvenliğini en üst düzeyde korumayı taahhüt eder.
+Çocuk cinsel istismarı ve sömürüsüyle ilgili her türlü içerik ve davranış kesinlikle yasaktır.
+Platformumuzda çocuklara zarar verebilecek hiçbir içerik, konuşma, anket veya görselin paylaşılmasına izin verilmez.
+2. Yasalar ve Düzenlemeler ile Uyum
+Numberloo, COPPA (ABD Çocukların Çevrimiçi Gizliliğini Koruma Yasası), GDPR-K (Avrupa Çocuk Hakları Veri Koruma Yönetmeliği) ve Türkiye Çocuk Koruma Kanunu gibi uluslararası ve yerel yasalara uygun hareket eder.
+Çocuk güvenliğine ilişkin tüm içerikler, savcılık veya polis gibi ülkenin güvenlik birimleriyle iş birliği içinde değerlendirilir.
+3. Yasaklı İçerik ve Davranışlar
+Çocuk cinsel istismarına yönelik her türlü içerik (görsel, yazı, anket vb.) süresiz olarak yasaklanmıştır.
+Çocukları hedef alan zararlı, manipülatif veya taciz edici içerikler tespit edildiğinde anında kaldırılır ve yetkililere bildirilir.
+Çocukların kimlik bilgilerinin, fotoğraflarının veya kişisel verilerinin paylaşılması yasaktır.
+4. İçerik Moderasyonu ve Algoritmik Tespit
+Numberloo, otomatik filtreleme sistemi ile yasaklı kelimeler oluşturur ve tüm kelimelerin uygulama içerisinde kullanımını engeller.
+5. Hukuki İş Birliği ve Uygulama İçi Şikayet Etme Mekanizması
+Numberloo, çocuk istismarı ve sömürüsüyle mücadele eden yasal otoritelerle aktif iş birliği yapar.
+Platformda tespit edilen tüm yasa dışı içerikler ve şüpheli kullanıcılar ilgili yasal mercilere bildirilecektir.
+Kullanıcılar, şikayet et butonu ile şikayet ve ihbarını doğrudan gönderebilir.
+6. Yaptırımlar ve Cezai İşlemler
+Kuralları ihlal eden kullanıcılar süresiz olarak yasaklanır ve hesapları geri alınamaz.
+Suç teşkili eden içerikler hakkında yasal işlem başlatılır.
